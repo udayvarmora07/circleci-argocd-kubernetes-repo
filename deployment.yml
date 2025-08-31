@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: myapp
-          image: uday0710/logo-express:build-1
+          image: uday0710/logo-express:build-11
           ports:
             - containerPort: 80
